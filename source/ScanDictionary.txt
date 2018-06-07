@@ -1,0 +1,6 @@
+get
+read
+scan
+input
+obtain
+acquire 

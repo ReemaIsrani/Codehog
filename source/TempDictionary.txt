@@ -1,0 +1,15 @@
+
+apple print
+dprint null
+dprint print
+dprint null
+apple null
+apple print
+repeat null
+a=1 null
+i=i+1 null
+z=x null
+melon print
+Start print
+start print
+apple print

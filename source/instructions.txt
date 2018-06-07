@@ -1,0 +1,11 @@
+Instructions:
+1.	Press "enter" for new line.
+2.	Enter Double quotes for string.
+3.	Declare the datatype of each variable separately before using.
+4.	Each line should start with a keyword. Eg. Print, Scan, Declare, etc.
+5.	Each operation or each command should compulsorily start from a new line.
+Eg. Print "a" Print "b" is not acceptable. 
+Instead write,
+Print "a"
+Print "b"
+6.	Do not put spaces between an operator and an operand (arithmetic).

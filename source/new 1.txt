@@ -1,0 +1,13 @@
+if (a is greater than b) and a is equal to or greater than b & aIS GREATER THAN OR EQUAL TOb && ( a Is Greater Than Equal To b) then print a
+else if (a>==b or a=b) 
+print b
+else if (a!=b || a==b) then print b
+else print c
+end if
+
+print 1
+print 2
+repeat above 2 stps while a<b
+print 1
+print 2
+repeat above 2 stps while a<b
